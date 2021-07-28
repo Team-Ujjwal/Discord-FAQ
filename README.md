@@ -5,8 +5,11 @@
 
 #### Here are some of the most asked questions and their answers please don't ping the staff unnecessarily for these questions and if they are asked again we may not answer it.
 
-**#1: How to apply for an official position?**
-"**No applications for teams, moderator, or jobs unless `advertised`.**" is one of our rules. If we need players, moderators, or jobs we'll make a post in #announcements about it. Then you can apply.
+**#1: How to apply for an official position?** 🤔
+- **No applications for teams, moderator, or jobs unless `advertised`**. is one of our rules.
+- **Requirements**: 3k-5k+ messages & 3-5hrs in vc on daily basis, good reputation on the server and also make sure to have proper knowledge of moderation.
+
+*PS: If we need players, moderators, or jobs we'll make a post in   about it. Then you can apply.*
 
 **#2: How to boost server?**
 Boosting the server will give you a @Nitro Booster role. Boosting the server helps in increasing the server level which gives many features and perks to the server.
