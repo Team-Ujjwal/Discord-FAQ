@@ -14,7 +14,7 @@ If you don't know how to boost the server, [read this article](https://support.d
 
 **#3: How to sponsor Ujjwal?**
 Simply, [**Join Channel Membership**](https://www.youtube.com/channel/UCl_vAxZpvbO-PFXdDu7EdHw/join)! 
-If you are already a Sponsor, go ahead and **sync your YouTube account with your Discord account**, by going into User Settings > Connections > YouTube. Discord will automatically sync with your YouTube account, and assign you the role. [For further details read this article](https://support.discord.com/hc/en-us/articles/215162978-Youtube-Channel-Memberships-Integration-FAQ)*
+If you are already a Sponsor, go ahead and **sync your YouTube account with your Discord account**, by going into User Settings > Connections > YouTube. Discord will automatically sync with your YouTube account, and assign you the role. [For further details read this article](https://support.discord.com/hc/en-us/articles/215162978-Youtube-Channel-Memberships-Integration-FAQ)!
 
 **#4: What are the perks if I'm a Nitro Booster or Youtube Sponsor?**
 - Customized colored roles.
@@ -28,7 +28,7 @@ If you are already a Sponsor, go ahead and **sync your YouTube account with your
 If you want to suggest anything about this server or to Ujjwal and want to help the Management team with your innovative ideas. Feel free to suggest it, we really appreciate such participation. Go to #commands and suggest by using this command `,suggest <your_suggestion>`. **Example**: `,suggest add count game`.
 
 **#6: Want to appeal a ban you received on the Ujjwal Gamer Official Discord Server?**
-If so, you're in the right place! Here, you can quickly send us your appeal without needing to send a DM to a member of the @Staff! [Click here to ban appeal](https://forms.gle/eULNojUL6UvDKsfH7)!
+If so, you're in the right place! Here, you can quickly send us your appeal without needing to send a DM to a member of the @Staff! [Click here to get ban appeal form](https://forms.gle/eULNojUL6UvDKsfH7)!
 
 **#7: Does Ujjwal come online?**
 Yes of course, **Ujjwal** use to come online regularly on Discord. Generally, he comes for editing videos and playing games. He comes to voice chat to talk to his family i.e. his fans.
